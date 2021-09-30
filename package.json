@@ -1,0 +1,23 @@
+{
+  "name": "hw-readme-mf",
+  "version": "1.0.0",
+  "description": "ReadmeGenerator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceboundbear/HW-readME-mf.git"
+  },
+  "author": "spaceboundbear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spaceboundbear/HW-readME-mf/issues"
+  },
+  "homepage": "https://github.com/spaceboundbear/HW-readME-mf#readme"
+}
